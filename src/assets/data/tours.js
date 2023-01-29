@@ -20,6 +20,14 @@ const tours = [
         name: "jhon doe",
         rating: 4.6,
       },
+      {
+        name: "jhon doe",
+        rating: 2.6,
+      },
+      {
+        name: "jhon doe",
+        rating: 3.6,
+      },
     ],
     avgRating: 4.5,
     photo: tourImg01,
